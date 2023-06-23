@@ -1,0 +1,13 @@
+{
+  "database": {
+    "name": "Python_Practice",
+    "host": "127.0.0.1",
+    "user": "root",
+    "password": "Pa$$w0rd",
+    "port": 3306
+  },
+  "logs": {
+    "directory": "logs",
+    "file_mask": "*.log"
+  }
+}
